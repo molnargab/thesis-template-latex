@@ -9,6 +9,7 @@ addons:
     - texlive-fonts-recommended
     - texlive-xetex
     - texlive-science
+    - biblatex
 script:
   - cd src
   - make test
